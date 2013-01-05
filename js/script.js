@@ -1,3 +1,5 @@
+/*Author : Saurav*/
+
 var color_before = 'rgb(255, 205, 0)';
 var color_after  = 'rgb(255, 150, 0)';
 var color_tiles = rn(3,9);					/*3 to 9 tiles to be coloured initially*/
@@ -68,10 +70,6 @@ if($("td").css("background-color")==color_after){
 
 }
 
-$('tr').click(function(){
-    $('embed').remove();
-    $('body').append('<embed src="sound.wav" autostart="true" hidden="true" loop="false">');
-});
 
 function playclicksound(){
 	 var sound = $("#sound")[0];  
