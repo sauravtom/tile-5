@@ -4,7 +4,9 @@ tile5
 Tiles game written in jquery.
 The objective is to color all the tiles red.
 
-Play game on http://sauravt.github.com/tile5/
+Play game on http://codepen.io/SauravTom/full/Iqtds
+
+http://sauravt.github.com/tile5/
 
 View source on https://github.com/SauravT/tile5/tree/gh-pages
 
